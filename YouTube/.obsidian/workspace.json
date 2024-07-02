@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "2a5102d3055349b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb0acf8a3f562c7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "803c5270e62c3bff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4bb6a4cfa310be0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn programming (C)/First month/2 июля 2024/Изучение.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "614f21d2bc568d37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dfd5bcdb3725cce",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "488d85861caad873",
+    "type": "split",
+    "children": [
+      {
+        "id": "9719bc64da754ee0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19671c43214d6156",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d5aa624e62b2b91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce4bb99e21cfe53b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7cf0e07760dae967",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0ecca1f0f7a9cf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0e7febe01dd9453",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learn programming (C)/First month/2 июля 2024/Изучение.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a6373befc4cc6745",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learn programming (C)/First month/2 июля 2024/Изучение.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2c89036b5451b06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "efdc3f3d743d171b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learn programming (C)/First month/2 июля 2024/Изучение.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f4bb6a4cfa310be0",
+  "lastOpenFiles": [
+    "Pasted image 20240702100827.png",
+    "Learn programming (C)/First month/2 июля 2024/2 июля 2024.md",
+    "Learn programming (C)/First month/2 июля 2024/Изучение.md",
+    "Learn programming (C)/First month/2 июля 2024",
+    "Welcome.md",
+    "Learn programming (C)/First month",
+    "Learn programming (C)/Untitled.md",
+    "Learn programming (C)"
+  ]
+}
