@@ -13,37 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Learn programming (C)/First month/9 июля 2024/Изучение.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "f4bb6a4cfa310be0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learn programming (C)/First month/2 июля 2024/Изучение.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "614f21d2bc568d37",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5dfd5bcdb3725cce",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -96,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7cf0e07760dae967",
@@ -112,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn programming (C)/First month/2 июля 2024/Изучение.md",
+                "file": "Learn programming (C)/First month/9 июля 2024/Изучение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn programming (C)/First month/2 июля 2024/Изучение.md",
+                "file": "Learn programming (C)/First month/9 июля 2024/Изучение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn programming (C)/First month/2 июля 2024/Изучение.md"
+                "file": "Learn programming (C)/First month/9 июля 2024/Изучение.md"
               }
             }
           }
@@ -173,13 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4bb6a4cfa310be0",
+  "active": "803c5270e62c3bff",
   "lastOpenFiles": [
-    "Pasted image 20240702100827.png",
-    "Learn programming (C)/First month/2 июля 2024/2 июля 2024.md",
+    "Pasted image 20240709063710.png",
+    "Learn programming (C)/First month/5 июля 2024/Изучение.md",
+    "Learn programming (C)/First month/9 июля 2024/Изучение.md",
+    "Learn programming (C)/First month/9 июля 2024",
+    "Learn programming (C)/First month/4 июля 2024/Изучение.md",
+    "Learn programming (C)/First month/5 июля 2024",
+    "Learn programming (C)/First month/3 июля 2024/Изучение.md",
+    "Learn programming (C)/First month/4 июля 2024",
     "Learn programming (C)/First month/2 июля 2024/Изучение.md",
-    "Learn programming (C)/First month/2 июля 2024",
+    "Learn programming (C)/First month/3 июля 2024",
+    "Learn programming (C)/First month/2 июля 2024/2 июля 2024.md",
     "Welcome.md",
+    "Pasted image 20240702100827.png",
+    "Learn programming (C)/First month/2 июля 2024",
     "Learn programming (C)/First month",
     "Learn programming (C)/Untitled.md",
     "Learn programming (C)"
