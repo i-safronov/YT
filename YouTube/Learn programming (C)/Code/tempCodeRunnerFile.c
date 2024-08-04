@@ -1,0 +1,2 @@
+
+    add(ptr, &item);
