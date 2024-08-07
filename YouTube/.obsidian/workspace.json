@@ -26,31 +26,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7241ba99315d68b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learn programming (C)/First month/12 июля 2024/Изучение.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3356686a0cfa3d13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn programming (C)/First month/16 июля 2024/Изучение.md",
+                "file": "Learn programming (C)/First month/17 июля 2024/Изучение.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,8 +166,9 @@
   },
   "active": "d0984bfa559005f7",
   "lastOpenFiles": [
-    "Learn programming (C)/First month/16 июля 2024/Изучение.md",
+    "Learn programming (C)/First month/17 июля 2024/Изучение.md",
     "Learn programming (C)/Scenario/First month/Изучение программирования 30 дней ep 1.md",
+    "Learn programming (C)/First month/16 июля 2024/Изучение.md",
     "Learn programming (C)/First month/14 июля 2024/Изучение.md",
     "Learn programming (C)/First month/13 июля 2024/Изучение.md",
     "Learn programming (C)/First month/12 июля 2024/Изучение.md",
@@ -220,7 +208,6 @@
     "Learn programming (C)/First month/Pasted image 20240725101046.png",
     "Learn programming (C)/First month/Pasted image 20240725100532.png",
     "Learn programming (C)/First month/Pasted image 20240725100436.png",
-    "Learn programming (C)/First month/Untitled.md",
     "Learn programming (C)/First month/Pasted image 20240724100212.png",
     "Learn programming (C)/First month/Pasted image 20240724093750.png",
     "Learn programming (C)/First month/Pasted image 20240724093538.png",
